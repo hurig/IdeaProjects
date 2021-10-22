@@ -1,0 +1,9 @@
+figure{
+    width: 540px;
+    margin: auto;
+    background-color: lightblue;
+    padding: 20px;
+}
+figcaption{
+    text-align: center;
+}

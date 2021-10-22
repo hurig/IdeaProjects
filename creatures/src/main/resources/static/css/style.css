@@ -1,0 +1,16 @@
+h1{
+    color: purple;
+}
+a{
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: purple;
+}
+.nav{
+    list-style-type: none;
+    display: inline;
+    margin: 2em;
+}

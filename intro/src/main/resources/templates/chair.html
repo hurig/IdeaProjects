@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="hu" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Chair</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h2>Chair</h2>
+<a href="/">front page</a>
+<ul>
+    <li th:text="${oneChair.legs}">15</li>
+    <li th:text="${oneChair.material}">metal</li>
+</ul>
+</body>
+</html>

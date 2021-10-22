@@ -1,0 +1,10 @@
+.bg-autumn-leaf{
+    background-color: darkgoldenrod;
+}
+.link-white{
+    text-decoration: none;
+    color: white;
+}
+.link-white:hover{
+    color: lightgray;
+}
